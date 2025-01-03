@@ -5,6 +5,10 @@ I am a passionate Full Stack Developer with over two years of experience working
 
 Creativity, attention to detail, and a results-driven mindset define my approach to challenges. I enjoy exploring innovative solutions and constantly expanding my technical expertise through research and personal projects.  
 
+### OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ---
 
 ## 🛠️ Technologies and Tools  
