@@ -1,16 +1,18 @@
-## Hi there 👋
+**Full Stack Developer | Software Engineer | Bachelor of Engineering Sciences**  
 
-<!--
-**ryuuseinan/ryuuseinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me  
+I am a passionate Full Stack Developer with over two years of experience working with technologies like Python Flask, ASP.NET, React and relational databases. I thrive on process optimization through automation and implementing scalable solutions to enhance operational efficiency and reduce costs.  
 
-Here are some ideas to get you started:
+Creativity, attention to detail, and a results-driven mindset define my approach to challenges. I enjoy exploring innovative solutions and constantly expanding my technical expertise through research and personal projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills  
+- **Programming Languages:** Python, C# .NET, PHP, Kotlin  
+- **Web Development:** HTML, CSS, JavaScript, WordPress  
+- **Databases:** SQL  
+- **Tools:** Git, Docker, SOAP, RESTful APIs  
+- **Operating Systems:** Linux, Windows  
+- **Soft Skills:** Project Management, SCRUM, Excel  
+
+---
